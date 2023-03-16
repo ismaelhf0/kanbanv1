@@ -1,3 +1,5 @@
+#DESCRIPTION
+this is the first comit of my kanbanv1 its a dynamic web app based on angular and scss 
 # Kanban
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.2.
