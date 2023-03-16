@@ -1,0 +1,15 @@
+//global styles and changing bulma variabels 
+//import a font
+@import url('https://fonts.googleapis.com/css?family=Nunito:400,700|Lato:400,800,900');
+
+$family-sans-serif: "Nunito", sans-serif;
+//update some bulma  variables 
+//global styles 
+html, body {
+    height: 100%;
+}
+html {
+    background-image: url(assets/circle-scatter-haikei.svg);
+background-size: cover;
+overflow-y: auto !important;
+}
