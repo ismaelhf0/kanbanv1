@@ -1,4 +1,4 @@
-#DESCRIPTION
+# DESCRIPTION
 this is the first comit of my kanbanv1 its a dynamic web app based on angular and scss 
 # Kanban
 
