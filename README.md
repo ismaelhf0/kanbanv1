@@ -1,5 +1,5 @@
 # DESCRIPTION
-this is the first comit of my kanbanv1 its a dynamic web app based on angular and scss 
+this is the first comit of my kanbanv1  its a dynamic drag and drop kanban web app based on angular/angular cdk and scss bulma
 # Kanban
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.2.
